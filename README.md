@@ -23,13 +23,13 @@ Features:
 -	FUTURE: can work as the hours schedule for the pros and to get paid. Much easier for organization. 
 
 SPRINT 1:
-| ✅Court sheet layout                        | Grid from 6am–9pm in 30-min intervals for 12 courts 
-| ✅Add lesson form                           | Input: member name, pro name, duration, and time    
-| ✅Display lesson blocks                     | Visualize lessons in the court sheet by pro         
-| ✅Show color-coded blocks                   | Each pro shows up with a different color    
+| ✅Court sheet layout: Grid from 6am–9pm in 30-min intervals for 12 courts 
+| ✅Add lesson form: Input: member name, pro name, duration, and time    
+| ✅Display lesson blocks: Visualize lessons in the court sheet by pro         
+| ✅Show color-coded blocks: Each pro shows up with a different color    
 	      *Uppercase and lowercase sensibility in the code        
-| ✅Prevent pro double-booking                | Don’t allow the same pro to be booked twice         
-| ✅Simple in-memory state                    | Store lessons temporarily in local state            
+| ✅Prevent pro double-booking: Don’t allow the same pro to be booked twice         
+| ✅Simple in-memory state: Store lessons temporarily in local state            
 
 SPRINT 2: 
 | ✅ “Done” / “Cancel” buttons                | Confirm or cancel lessons from the calendar    
