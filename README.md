@@ -23,6 +23,7 @@ Features:
 -	FUTURE: can work as the hours schedule for the pros and to get paid. Much easier for organization. 
 
 SPRINT 1:
+
 | ✅Court sheet layout: Grid from 6am–9pm in 30-min intervals for 12 courts 
 | ✅Add lesson form: Input: member name, pro name, duration, and time    
 | ✅Display lesson blocks: Visualize lessons in the court sheet by pro         
@@ -32,6 +33,7 @@ SPRINT 1:
 | ✅Simple in-memory state: Store lessons temporarily in local state            
 
 SPRINT 2: 
+
 | ✅ “Done” / “Cancel” buttons                | Confirm or cancel lessons from the calendar    
 | ✅Confirm billing with prompt               | Show a confirmation when marking "Done"        
 | Track lesson status                         | (Scheduled, Done, Cancelled)                   
@@ -40,6 +42,7 @@ SPRINT 2:
 | Add/edit/removal logic                      | Allow editing or removing lessons  
 
 SPRINT 3:
+
 | Member reservations                         | Add simple “reserved” blocks (with no pro assigned)            
 | Hide lesson details from members            | Only show time availability on member view                     
 | Group clinic lessons                        | Show blocks for group clinics                                  
@@ -47,12 +50,14 @@ SPRINT 3:
 | 🔜 (future) Member joins/cancels clinic     | Basic backend logic for user interaction (optional early prep)
 
 SPRINT 4:
+
 | Pro/admin/member roles                      | Different views + access levels               
 | Login system (basic)                        | Local auth, ready to expand to Firebase later 
 | Display limited views                       | Members see availability only                 
 | Admin can modify all                        | Admin has full editing and billing access 
 
 SPRINT 5:
+
 | Local storage                               | Store lessons persistently across refreshes    
 | Prep for database                           | Clean data models for Firebase or Supabase     
 | Email/text reminders                        | Framework ready (via button or cron trigger)   
